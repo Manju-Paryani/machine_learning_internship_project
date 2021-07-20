@@ -1,6 +1,6 @@
-#Predicting House Prices in Bengaluru
+# Predicting House Prices in Bengaluru
 
-###Attributes Information:
+### Attributes Information:
 1. Area_type - describes the area 
 2. Availability - when it can be possessed or when it is ready(categorical and time-series) 
 3. Location - where it is located in Bengaluru 
@@ -11,5 +11,5 @@
 8. Bath - No. of bathrooms 
 9. Balcony - No. of the balcony
 
-##Algorithm used: Linear Regression.
-##Metric used :  Root Mean Squared Error(RMSE).
+## Algorithm used: Linear Regression.
+## Metric used :  Root Mean Squared Error(RMSE).
